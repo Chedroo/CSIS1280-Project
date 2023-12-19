@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "1st Street",
+        "category": "Home",
+        "price": "$1,499,900", 
+        "images": ["https://images.pexels.com/photos/5845543/pexels-photo-5845543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"]
+    },
+    {
+        "id": 2,
+        "name": "Ridge Street",
+        "category": "Home",
+        "price": "$2,090,000", 
+        "images": ["https://images.pexels.com/photos/7578862/pexels-photo-7578862.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"]
+    },
+    {
+        "id": 3,
+        "name": "Sycamore Street",
+        "category": "Home",
+        "price": "$1,138,000", 
+        "images": ["https://images.pexels.com/photos/7031608/pexels-photo-7031608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"]
+    },
+    {
+        "id": 4,
+        "name": "West Street",
+        "category": "Home",
+        "price": "$638,800", 
+        "images": ["https://images.pexels.com/photos/7031414/pexels-photo-7031414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"]
+    },
+    {
+        "id": 5,
+        "name": "Magnolia Court",
+        "category": "Home",
+        "price": "$812,800", 
+        "images": ["https://images.pexels.com/photos/803975/pexels-photo-803975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"]
+    },
+    {
+        "id": 6,
+        "name": "Emerald Road",
+        "category": "Apartment",
+        "price": "$2,099,000", 
+        "images": ["https://images.pexels.com/photos/2387674/pexels-photo-2387674.jpeg?auto=compress&cs=tinysrgb&w=800"]
+    },
+    {
+        "id": 7,
+        "name": "Serenity Avenue",
+        "category": "Apartment",
+        "price": "$3,730,000", 
+        "images": ["https://images.pexels.com/photos/3663530/pexels-photo-3663530.jpeg?auto=compress&cs=tinysrgb&w=800"]    
+    },
+    {
+        "id": 8,
+        "name": "Panorama View",
+        "category": "Apartment",
+        "price": "$2,380,000", 
+        "images": ["https://images.pexels.com/photos/303059/pexels-photo-303059.jpeg?auto=compress&cs=tinysrgb&w=800"]
+        },
+    {
+        "id": 9,
+        "name": "Meadow Boulevard",
+        "category": "Apartment",
+        "price": "$599,000", 
+        "images": ["https://images.pexels.com/photos/897242/pexels-photo-897242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"]
+        },
+    {
+        "id": 10,
+        "name": "Sunset Trail",
+        "category": "Apartment",
+        "price": "$549,000", 
+        "images": ["https://images.pexels.com/photos/2091760/pexels-photo-2091760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"]
+        }
+]
